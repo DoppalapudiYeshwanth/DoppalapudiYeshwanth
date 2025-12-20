@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋 I'm Yeshwanth
 
-<!--
-**DoppalapudiYeshwanth/DoppalapudiYeshwanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BTech CSE Student  
+💻 Full Stack Developer (MERN)  
+🤖 AI/ML & Data Science Enthusiast  
 
-Here are some ideas to get you started:
+### Skills
+- HTML, CSS, JavaScript
+- Node.js, Express, MongoDB
+- Java, DSA
+- Python, Machine Learning
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On
+- Full-Stack Projects
+- AI-based Medical Diagnosis System
+- Data Structures & Algorithms
+
+📫 Reach me: linkedin.com/in/doppalapudiyeshwanth
