@@ -23,7 +23,7 @@ I am a Computer Science Engineering undergraduate with strong interests in backe
 ## 🚀 Projects
 
 ### TravelNest | Full-Stack Travel Listing Platform  
-🔗 Live Demo: https://travelnest-your-stay-is-our-priority.onrender.com  
+🔗 Live Demo: https://travelnest-your-stay-is-our-priority.onrender.com/listings
 
 - Built and deployed a production-ready full-stack travel listing platform with category-based discovery, authentication, reviews, and image uploads.
 - Designed scalable MongoDB schemas using enum-based category validation and relational ownership with Mongoose.
